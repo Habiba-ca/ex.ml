@@ -1,5 +1,4 @@
-streamlit>=1.26.0
-pipreqs
+streamlit==1.12.2.
 pandas
 numpy
 scikitlearn 
